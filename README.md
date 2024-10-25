@@ -36,7 +36,7 @@ Here are some of the projects I've worked on:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?aisyahbelajar=aisyahbelajar&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisyahbelajar&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
