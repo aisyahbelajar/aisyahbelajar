@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Aisyah Lailia!
 
-![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
-
 ## 🌱 About Me
 
 I'm a passionate **Web Developer** specializing in **Frontend Development**. I love creating user-friendly and interactive websites that provide great user experiences. I'm currently studying Informatics Engineering at Universitas Negeri Surabaya and working on various projects
