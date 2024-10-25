@@ -34,9 +34,6 @@ Here are some of the projects I've worked on:
 - **[SMP TPI Gedangan Official Website](https://github.com/aisyahbelajar/smptpigedangan.github.io)**: Developing a responsive and informative website for SMP TPI Gedangan as part of Kampus Mengajar Batch 8.
 - **[Pokedex Project](https://github.com/username/pokedex)**: A web application that allows users to explore Pokémon data using a third-party API.
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aisyahbelajar&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
