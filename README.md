@@ -20,8 +20,8 @@ const aisyahlailia = {
   role: "Front-End Developer & UI Designer",
   location: "Indonesia 🇮🇩",
   stack: ["MERN Stack", "Vue.js", "TailwindCSS", "TypeScript"],
-  currentlyLearning: ["Next.js", "Three.js", "Framer Motion"],
-  hobbies: ["designing UI/UX", "exploring new tech", "reading", "coffee ☕"],
+  currentlyLearning: ["Next.js", "Three.js", "Go"],
+  hobbies: ["cats", "exploring new tech", "reading", "coffee ☕"],
   funFact: "I debug with console.log and I'm proud of it! 😄",
   motto: "Code with purpose, design with heart 💜"
 };
@@ -91,17 +91,6 @@ const aisyahlailia = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-# Show only Followers and Stars
-[![trophy](https://github-profile-trophy.vercel.app/?username=aisyahbelajar&title=Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
-# Exclude Stars and Followers
-[![trophy](https://github-profile-trophy.vercel.app/?username=aisyahbelajar&title=-Stars,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 🎯 Currently Focusing On
 
