@@ -21,7 +21,7 @@ const aisyahlailia = {
   location: "Indonesia 🇮🇩",
   stack: ["MERN Stack", "Vue.js", "TailwindCSS", "TypeScript"],
   currentlyLearning: ["Next.js", "Three.js", "Go"],
-  hobbies: ["cats", "exploring new tech", "reading", "coffee ☕"],
+  hobbies: ["cats", "exploring new tech", "reading", "tea ☕"],
   funFact: "I debug with console.log and I'm proud of it! 😄",
   motto: "Code with purpose, design with heart 💜"
 };
