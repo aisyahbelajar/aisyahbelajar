@@ -1,56 +1,161 @@
-<h1 align="left">Hi, I'm Aisyah Lailia! 👋</h1>
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Aisyah+Lailia!+%F0%9F%91%8B;Front-End+Developer+%26+Designer+%F0%9F%8E%A8;MERN+Stack+Enthusiast+%F0%9F%9A%80;Crafting+Beautiful+Web+Experiences+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub profile! I’m a front-end developer and designer with a passion for crafting impactful web applications using the **MERN Stack**. 🌟 I'm always exploring new technologies and building projects that make a difference.
+<br>
+
+<!-- Contribution Snake — pakai github-readme-snake.adaptivecards.io yang lebih stabil -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🌸 About Me
+
+```javascript
+const aisyahlailia = {
+  name: "Aisyah Lailia",
+  role: "Front-End Developer & UI Designer",
+  location: "Indonesia 🇮🇩",
+  stack: ["MERN Stack", "Vue.js", "TailwindCSS", "TypeScript"],
+  currentlyLearning: ["Next.js", "Three.js", "Framer Motion"],
+  hobbies: ["designing UI/UX", "exploring new tech", "reading", "coffee ☕"],
+  funFact: "I debug with console.log and I'm proud of it! 😄",
+  motto: "Code with purpose, design with heart 💜"
+};
+```
+
+<table align="center">
+  <tr>
+    <td>🎓</td>
+    <td>Front-End Developer & UI Designer</td>
+  </tr>
+  <tr>
+    <td>🔭</td>
+    <td>Currently building impactful MERN Stack web apps</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Exploring Next.js, Three.js & advanced animations</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>Passionate about clean UI & pixel-perfect design</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td>Open to collaborations & creative projects</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td>Indonesia 🇮🇩</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Tech Stack & Skills
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,figma&theme=dark&perline=5" />
+</div>
+
+### ⚙️ Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark&perline=5" />
+</div>
+
+### 🛠️ Tools & Workflow
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark&perline=5" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aisyahbelajar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aisyahbelajar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aisyahbelajar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aisyahbelajar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+# Show only Followers and Stars
+[![trophy](https://github-profile-trophy.vercel.app/?username=aisyahbelajar&title=Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+# Exclude Stars and Followers
+[![trophy](https://github-profile-trophy.vercel.app/?username=aisyahbelajar&title=-Stars,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🎯 Currently Focusing On
+
+```
+🔨  Building → Full-stack MERN applications
+📖  Learning → Next.js 14 & server-side rendering  
+🎨  Designing → Interactive UI components with animations
+🤝  Looking  → To collaborate on open-source projects
+```
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aisyah%20Lailia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisyahlailia/)
+[![Instagram](https://img.shields.io/badge/Instagram-@aisyahlailia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aisyahlailia/)
+[![Gmail](https://img.shields.io/badge/Gmail-aisyahlailia80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aisyahlailia80@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://aisyahlailia.netlify.app/)
+
+</div>
+
+> 💌 Feel free to reach out — whether it's a project idea, collaboration, or just a friendly hello!
+
+
+## 📈 Visitor Count
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aisyahbelajar&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <em>Thanks for stopping by! ✨</em>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aisyahlailia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/aisyahlailia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a>
-  <a href="mailto:aisyahlailia80@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-  </a>
+  <img height="120" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
+  <br>
+  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
 </div>
 
----
+<br>
 
-### 🚀 Tech Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo" />
-</div>
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aisyahbelajar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages Graph" />
-</div>
-
----
-
-### 🌟 Visitor Count
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aisyahbelajar/count.svg?" />
-</div>
-
----
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="fun GIF" />
+  <sub>✨ Made with 💜 by Aisyah Lailia • Updated 2026</sub>
 </div>
